@@ -3,7 +3,7 @@
 # My-Employee-Tracker
 12 SQL: Employee Tracker
 
-[Deployed Application]()
+[Video Walkthrough]()
  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 
@@ -14,6 +14,13 @@
 *[Repositiory-End-Goal-Criterea](#Repositiory-End-Goal-Criterea)
 *[License](#License)
 *[Contact](#Contact)
+
+
+## Installation
+###### [Back to Table of Contents](#Table-of-Contents)
+To install any necessary dependencies run the following command:
+
+npm install
 
 # Repository-Description
 ###### [Back to Table of Contents](#Table-of-Contents)
