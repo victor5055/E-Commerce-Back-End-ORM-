@@ -3,7 +3,7 @@
 # My-Employee-Tracker
 12 SQL: Employee Tracker
 
-[Video Walkthrough]()
+[Video Walkthrough](https://drive.google.com/file/d/1M6J43EmcDidG0Hl5KIcxwamFVjsJqYfz/view)
  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 
@@ -56,13 +56,16 @@ none
 
 ## Overview: What Was Accomplished!
 ### Workflow [Back to Table of Contents](#Table-of-Contents)
+Back end for my e-commerce website that uses the latest technologies
+SO THAT my company can compete with other e-commerce companies
 
 
 
 ### Screenshots (Building this application)
 ###### [Back to Table of Contents](#Table-of-Contents)
-![](./)
-![](./)
+![](./images/Capture.PNG)
+![](./images/Capture2.PNG)
+![](./images/Capture3.PNG)
 
 ## Repositiory-End-Goal-Criterea
 ###### [Back to Table of Contents](#Table-of-Contents)
